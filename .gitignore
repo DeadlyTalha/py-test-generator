@@ -1,0 +1,24 @@
+# Environnement
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets
+.env
+
+# Données temporaires
+uploads/
+outputs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
